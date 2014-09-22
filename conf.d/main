@@ -33,5 +33,5 @@ EOF
 
 # disable webmin and shellinabox
 #sysv-rc-conf webmin off
-#sysv-rc-conf shellinabox off
+sysv-rc-conf shellinabox off
 

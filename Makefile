@@ -1,3 +1,5 @@
-WEBMIN_FW_TCP_INCOMING = 22 12320 12321
+WEBMIN_FW_TCP_INCOMING = 22 80 135 139 443 445 12320 12321
+WEBMIN_FW_UDP_INCOMING = 137 138
 
+include $(FAB_PATH)/common/mk/turnkey/fileserver.mk
 include $(FAB_PATH)/common/mk/turnkey.mk
