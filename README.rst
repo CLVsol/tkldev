@@ -1,6 +1,8 @@
 TKLDev - TurnKey Development Toolchain and Build System
 =======================================================
 
+This version was customized by CLVsol.
+
 TKLDev is the mother of all TurnKey apps. It's used to give birth to all
 TurnKey apps, including new versions of `itself`_. It's designed to make
 simple things simple, and hard things possible. It's a self-contained
